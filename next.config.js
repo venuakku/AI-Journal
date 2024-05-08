@@ -4,9 +4,9 @@ const nextConfig = {
         ignoreBuildErrors: true,
     },
     eslint: {
-        ignoreBuildErrors: true,
         ignoreDuringBuilds: true,
-    },
+        ignoreBuildErrors: true,
+    }, 
 }
 
 module.exports = nextConfig
