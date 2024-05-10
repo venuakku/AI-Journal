@@ -24,7 +24,7 @@ const History = async () => {
 
     return(
         <div className="h-full w-full">
-            <div>
+            <div className="text-2xl m-1">
                 {`Avg. Sentiment ${avg}`}
             </div>
             <div className="h-full w-full">
